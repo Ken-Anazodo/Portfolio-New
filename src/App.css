@@ -1,0 +1,29 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.app{
+  visibility: hidden;
+}
+
+html {
+  overscroll-behavior: none;
+}
+
+body {
+  overscroll-behavior: none;
+}
+
+body.no-scroll {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  overflow: hidden;
+}
+
+::-webkit-scrollbar{
+  display: none;
+}

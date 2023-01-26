@@ -1,0 +1,40 @@
+.madeIn{
+    font-family: 'Krona One', sans-serif;
+}
+
+.lag{
+    font-family: 'Bodoni Moda', serif;
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+}
+
+.chief{
+    font-family: 'Krona One', sans-serif;
+}
+
+
+.char{
+    transform: translate(0, 32vw);
+}
+
+.footer.active{
+    background-color: black;
+}
+
+.lag.active{
+    color: #991b1b;
+}
+
+.mc.active{
+    color: #991b1b;
+}
+
+.fiveFour.active{
+    color: #991b1b;
+}
+
+.mc1.active{
+    color: #991b1b;
+}
+
+
+
